@@ -1,2 +1,2 @@
 # project-web
-tugas PAW easey web profile
+tugas PAW easy web profile
